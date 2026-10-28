@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there , I'm Hafsa! 👋  an AI student passionate about building AI agents.
 
-<!--
-**hafsa-54/hafsa-54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love turning my ideas into reality. If an idea pops into my head, I'll do my best to build it and ship it.
 
-Here are some ideas to get you started:
+My main tech stack is **C++, Java, HTML, CSS, and DSA**. My favourite tools are **VS Code, Claude, Gamma, and Google Colab**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've built several projects, but my favourite is a VS Code extension that generates monthly summaries of my coding practice.
+
+I'm sharing my code and practice files on my profile. Feel free to explore!
+
+Fun Facts:
+- I love video editing.
+- Hobbies: Reading books, painting, and building things. 🚀
