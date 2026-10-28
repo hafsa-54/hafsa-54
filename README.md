@@ -1,6 +1,6 @@
 ## Hi there , I'm Hafsa! 👋  an AI student passionate about building AI agents.
 
-I love turning my ideas into reality. If an idea pops into my head, I'll do my best to build it and ship it.
+I love turning my ideas into reality. If an idea pops into my head, I'll do my best to build it.
 
 My main tech stack is **C++, Java, HTML, CSS, and DSA**. My favourite tools are **VS Code, Claude, Gamma, and Google Colab**.
 
